@@ -1,0 +1,31 @@
+# based on ActiveRecord's locale/en.yml file
+# Translated to Dutch by Jeroen van Dijk (http://www.jeevidee.nl)
+nl:
+  semantic-attributes:
+    errors:
+      messages:
+        us_zip_code: 'moet een US postcode zijn.'
+        required: 'is verplicht.'
+        exclusion: "is geen geldige optie."
+        inclusion: "is geen geldige optie."
+        domain: "moet een simpel domein zijn."
+        email: 'moet een geldig email adres zijn.'
+        hex: "moet een hexadecimaal kleur zijn."
+        invalid: "is ongeldig."
+        phone: "moet een telefoonnummer zijn."
+        time: "moet een tijd zijn."
+        taken: "is al vergeven."
+        url: 'moet een geldige url zijn.'
+        same_as: "moet hetzelfde zijn."
+        us_state_or_territory: "moet een US staat of territorium zijn."
+        us_state: "moet een US staat zijn."
+        inexact_length: "moet {{count}} karakters lang zijn."
+        wrong_length: "moet tussen de {{min}} en {{max}} karakters lang zijn."
+        too_short: "moet meer dan {{min}} karakters lang zijn."
+        too_long: "mag maximaal {{max}} karakters lang zijn."
+        not_a_number: "moet een nummer zijn."
+        between: "moet een getal zijn tussen {{min}} en {{max}}."
+        greater_than_or_equal_to: "moet een getal zijn van minimaal {{min}}."
+        less_than_or_equal_to: "moet een getal zijn niet groter dan {{max}}."
+        greater_than: "moet een getal zijn groter dan {{min}}."
+        less_than: "moet een getal zijn minder dan {{max}}."
